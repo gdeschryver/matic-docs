@@ -65,7 +65,7 @@ image: https://matic.network/banners/matic-network-16x9.png
 |61 |CEX.IO              |CEX         |                                                                                                                             |
 |62 |CoinBene            |CEX         |                                                                                                                             |
 |63 |CoinEx              |CEX         |                                                                                                                             |
-|64 |Crypto.com          |CEX         |                                                                                                                             |
+|64 |Crypto.com          |CEX         |MATIC, ETH, USDC                                                                                                             |
 |65 |Dove Wallet         |CEX         |                                                                                                                             |
 |66 |Emirex              |CEX         |                                                                                                                             |
 |67 |Flybit              |CEX         |                                                                                                                             |
